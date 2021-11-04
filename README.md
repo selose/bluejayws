@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bluejayws
-- 👀 I’m interested in Java, Kotlin
+- 👀 I’m interested in Java, Python, Kotlin
 - 🌱 I’m currently learning Android Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @evgnngve on 🐣

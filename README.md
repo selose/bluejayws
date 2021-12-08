@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bluejayws
-- 👀 I’m interested in Java, Python, Kotlin
-- 🌱 I’m currently learning Android Programming
+- 👀 I’m interested in Java, Python, R
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @bluejayws on 🐣
+- 📫 How to reach me @bluejayws on 🐣 twitter
 
 <!---
 bluejayws/bluejayws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

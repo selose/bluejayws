@@ -1,4 +1,4 @@
-## BluejayWS's GitHub
+# BluejayWS's GitHub
 
 - 👋 Hi, I’m @bluejayws
 - 👀 I’m interested in Java, Python, R

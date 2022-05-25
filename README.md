@@ -1,8 +1,8 @@
 # BluejayWS's GitHub
 
 - 👋 Hi, I’m @bluejayws
-- 👀 I’m interested in Java, Python, R
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Python, R, Racket
+- 🌱 I’m currently learning R, Data Library
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @bluejayws on 🐣 twitter
 
